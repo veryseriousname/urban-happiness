@@ -28,3 +28,9 @@ Wertung 2: Projektbeschreibung: gesamt: -5 / 10
 - Designaspekte: 0 
 - Voraussetzung bekannten Wissens: -5 (da keine Projektbeschreibung)
 (Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
+
+===================================
+=== Feedback Alpers, 2016-06-17 ===
+===================================
+
+Leider keine Änderungen seit letztem Feedback.
